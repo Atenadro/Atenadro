@@ -4,7 +4,7 @@
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=t&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-1575F9?style=for-the-badge&logo=&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
